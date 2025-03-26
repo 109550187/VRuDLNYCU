@@ -38,3 +38,6 @@ from IPython.display import display
 3. Run the notebook
 
 # Performance
+The final result in the CodaBench competition returned a result of 0.91 accuracy.
+
+![Performance leaderboard](performance.png)
